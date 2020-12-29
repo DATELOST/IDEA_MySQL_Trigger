@@ -1,5 +1,4 @@
-# IDEA_MySQL_Trigger
-IDEA_MySQL_Trigger
+# IDEA_MySQL_Trigger  
 开发语言:	  Java  
 开发环境: 	IntelliJ IDEA 2019.3.1  
 数据库:		 MySQL  
