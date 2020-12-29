@@ -1,0 +1,2 @@
+# IDEA_MySQL_Trigger
+IDEA_MySQL_Trigger
